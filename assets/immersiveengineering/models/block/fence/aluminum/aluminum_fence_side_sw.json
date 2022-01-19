@@ -1,0 +1,7 @@
+{
+    "parent": "immersiveengineering:block/fence/ie_fence_side_sw",
+    "textures": {
+        "particle": "immersiveengineering:blocks/storage_aluminum",
+        "0": "immersiveengineering:blocks/metal_decoration1_aluminum_fence"
+    }
+}
