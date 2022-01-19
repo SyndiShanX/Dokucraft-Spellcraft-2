@@ -1,0 +1,16 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/sides/0" },
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/sides/1" },
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/sides/2" },
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/sides/3" },
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/ends/0" },
+        { "model": "cavesandcliffs:block/deepslate_ores/emerald/ends/1" }
+      ]
+    }
+  ]
+}

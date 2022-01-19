@@ -1,0 +1,13 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "cavesandcliffs:block/deepslate_ores/diamond/sides/0" },
+        { "model": "cavesandcliffs:block/deepslate_ores/diamond/sides/1" }
+      ]
+    },
+    { "apply": [
+        { "model": "cavesandcliffs:block/deepslate_ores/diamond/ends/0" },
+        { "model": "cavesandcliffs:block/deepslate_ores/diamond/ends/1" }
+      ]
+    }
+  ]
+}

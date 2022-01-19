@@ -1,0 +1,8 @@
+{ "variants": {
+    "": [
+      { "model": "cavesandcliffs:block/deepslate/tiles/cracked/0", "weight": 8 },
+      { "model": "cavesandcliffs:block/deepslate/tiles/cracked/1", "weight": 8 },
+      { "model": "cavesandcliffs:block/deepslate/tiles/cracked/2", "weight": 14 }
+    ]
+  }
+}

@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/plants/tulip_models/red",
-		"particle": "block/plants/red_tulip/0"
+		"particle": "block/red_tulip"
 	},
 	"elements": [
 		{

@@ -1,0 +1,7 @@
+{ "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "cavesandcliffs:block/deepslate/bricks/1",
+    "top": "cavesandcliffs:block/deepslate/bricks/1",
+    "side": "cavesandcliffs:block/deepslate/bricks/1"
+  }
+}

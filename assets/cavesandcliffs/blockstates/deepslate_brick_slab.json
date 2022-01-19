@@ -1,0 +1,15 @@
+{ "variants": {
+    "type=bottom": [
+      { "model": "cavesandcliffs:block/deepslate/bricks/slab/lower/0" },
+      { "model": "cavesandcliffs:block/deepslate/bricks/slab/lower/1" }
+    ],
+    "type=double": [
+      { "model": "cavesandcliffs:block/deepslate/bricks/0" },
+      { "model": "cavesandcliffs:block/deepslate/bricks/1" }
+    ],
+    "type=top": [
+      { "model": "cavesandcliffs:block/deepslate/bricks/slab/upper/0" },
+      { "model": "cavesandcliffs:block/deepslate/bricks/slab/upper/1" }
+    ]
+  }
+}

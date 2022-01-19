@@ -1,0 +1,5 @@
+{ "parent": "cavesandcliffs:block/deepslate/column_sides",
+  "textures": {
+    "0": "cavesandcliffs:block/deepslate_ores/copper/sides/3"
+  }
+}

@@ -1,0 +1,5 @@
+{ "parent": "cavesandcliffs:block/deepslate/column_ends",
+  "textures": {
+    "0": "cavesandcliffs:block/deepslate_ores/diamond/ends/1"
+  }
+}

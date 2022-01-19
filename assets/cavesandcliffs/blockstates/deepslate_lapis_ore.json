@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/sides/0" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/sides/1" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/sides/2" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/sides/3" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/ends/0" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/ends/1" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/ends/2" },
+        { "model": "cavesandcliffs:block/deepslate_ores/lapis/ends/3" }
+      ]
+    }
+  ]
+}

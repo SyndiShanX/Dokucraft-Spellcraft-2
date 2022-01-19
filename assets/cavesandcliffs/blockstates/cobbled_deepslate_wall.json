@@ -1,0 +1,57 @@
+{ "multipart": [
+    { "when": { "up": "true" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/post/0" },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/post/1" }
+      ]
+    },
+    { "when": { "north": "low" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/0", "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/1", "uvlock": true }
+      ]
+    },
+    { "when": { "east": "low" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/0", "y": 90, "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/1", "y": 90, "uvlock": true }
+      ]
+    },
+    { "when": { "south": "low" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/0", "y": 180, "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/1", "y": 180, "uvlock": true }
+      ]
+    },
+    { "when": { "west": "low" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/0", "y": 270, "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side/1", "y": 270, "uvlock": true }
+      ]
+    },
+    { "when": { "north": "tall" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/0", "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/1", "uvlock": true }
+      ]
+    },
+    { "when": { "east": "tall" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/0", "y": 90, "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/1", "y": 90, "uvlock": true }
+      ]
+    },
+    { "when": { "south": "tall" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/0", "y": 180, "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/1", "y": 180, "uvlock": true }
+      ]
+    },
+    { "when": { "west": "tall" },
+      "apply": [
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/0", "y": 270, "uvlock": true },
+        { "model": "cavesandcliffs:block/deepslate/cobbled/wall/side_tall/1", "y": 270, "uvlock": true }
+      ]
+    }
+  ]
+}

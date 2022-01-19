@@ -1,0 +1,10 @@
+{
+	"parent": "cavesandcliffs:block/dripleaf/big/big_dripleaf_full_tilt",
+	"textures": {
+		"top": "cavesandcliffs:block/dripleaf/big/top/3",
+		"stem": "cavesandcliffs:block/dripleaf/big/stem",
+		"side": "cavesandcliffs:block/dripleaf/big/side/3",
+		"tip": "cavesandcliffs:block/dripleaf/big/tip/3",
+		"particle": "cavesandcliffs:block/dripleaf/big/top/3"
+	}
+}

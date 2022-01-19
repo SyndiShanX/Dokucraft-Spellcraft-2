@@ -1,0 +1,10 @@
+{ "variants": {
+    "": [
+      { "model": "cavesandcliffs:block/deepslate/polished/0" },
+      { "model": "cavesandcliffs:block/deepslate/polished/1" },
+      { "model": "cavesandcliffs:block/deepslate/polished/2" },
+      { "model": "cavesandcliffs:block/deepslate/polished/3" },
+      { "model": "cavesandcliffs:block/deepslate/polished/4" }
+    ]
+  }
+}

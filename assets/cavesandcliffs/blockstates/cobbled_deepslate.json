@@ -1,0 +1,7 @@
+{ "variants": {
+    "": [
+      { "model": "cavesandcliffs:block/deepslate/cobbled/0" },
+      { "model": "cavesandcliffs:block/deepslate/cobbled/1" }
+    ]
+  }
+}

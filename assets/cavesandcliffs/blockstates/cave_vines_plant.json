@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "berries=false": { "model": "cavesandcliffs:block/cave_vines/main_unlit" },
+    "berries=true": { "model": "cavesandcliffs:block/cave_vines/main_lit" }
+  }
+}

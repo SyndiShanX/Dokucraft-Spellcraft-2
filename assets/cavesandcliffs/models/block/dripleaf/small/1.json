@@ -1,0 +1,9 @@
+{
+	"parent": "cavesandcliffs:block/dripleaf/small/small_dripleaf_top",
+	"textures": {
+		"top": "cavesandcliffs:block/dripleaf/small/top/1",
+		"side": "cavesandcliffs:block/dripleaf/small/side/1",
+		"stem": "cavesandcliffs:block/dripleaf/small/stem_top",
+		"particle": "cavesandcliffs:block/dripleaf/small/top/1"
+	}
+}

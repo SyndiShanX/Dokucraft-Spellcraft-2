@@ -1,0 +1,7 @@
+{ "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "cavesandcliffs:block/deepslate/cobbled/0",
+    "top": "cavesandcliffs:block/deepslate/cobbled/0",
+    "side": "cavesandcliffs:block/deepslate/cobbled/0"
+  }
+}

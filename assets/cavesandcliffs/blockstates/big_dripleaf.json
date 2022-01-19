@@ -1,0 +1,100 @@
+{
+  "variants": {
+		"facing=north,tilt=none": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf" },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf" },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf" },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf" }
+    ],
+		"facing=east,tilt=none": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf", "y": 90 }
+    ],
+		"facing=south,tilt=none": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf", "y": 180 }
+    ],
+		"facing=west,tilt=none": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf", "y": 270 }
+    ],
+		"facing=north,tilt=unstable": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf" },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf" },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf" },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf" }
+    ],
+		"facing=east,tilt=unstable": [
+			{ "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf", "y": 90 },
+			{ "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf", "y": 90 },
+			{ "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf", "y": 90 },
+			{ "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf", "y": 90 }
+    ],
+		"facing=south,tilt=unstable": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf", "y": 180 }
+    ],
+		"facing=west,tilt=unstable": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf", "y": 270 }
+    ],
+		"facing=north,tilt=partial": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_partial_tilt" },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_partial_tilt" },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_partial_tilt" },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_partial_tilt" }
+    ],
+		"facing=east,tilt=partial": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_partial_tilt", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_partial_tilt", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_partial_tilt", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_partial_tilt", "y": 90 }
+    ],
+		"facing=south,tilt=partial": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_partial_tilt", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_partial_tilt", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_partial_tilt", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_partial_tilt", "y": 180 }
+    ],
+		"facing=west,tilt=partial": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_partial_tilt", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_partial_tilt", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_partial_tilt", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_partial_tilt", "y": 270 }
+    ],
+		"facing=north,tilt=full": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_full_tilt" },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_full_tilt" },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_full_tilt" },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_full_tilt" }
+    ],
+    "facing=east,tilt=full": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_full_tilt", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_full_tilt", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_full_tilt", "y": 90 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_full_tilt", "y": 90 }
+    ],
+    "facing=south,tilt=full": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_full_tilt", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_full_tilt", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_full_tilt", "y": 180 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_full_tilt", "y": 180 }
+    ],
+    "facing=west,tilt=full": [
+      { "model": "cavesandcliffs:block/dripleaf/big/0/big_dripleaf_full_tilt", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/1/big_dripleaf_full_tilt", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/2/big_dripleaf_full_tilt", "y": 270 },
+      { "model": "cavesandcliffs:block/dripleaf/big/3/big_dripleaf_full_tilt", "y": 270 }
+    ]
+  }
+}
