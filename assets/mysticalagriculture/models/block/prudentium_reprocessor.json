@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "mysticalagriculture:blocks/prudentium_reprocessor_top",
+        "down": "mysticalagriculture:blocks/prudentium_reprocessor_bottom",
+        "front": "mysticalagriculture:blocks/prudentium_reprocessor_front",
+        "side": "mysticalagriculture:blocks/prudentium_reprocessor_side"
+    }
+}

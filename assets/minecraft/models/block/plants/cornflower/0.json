@@ -1,0 +1,348 @@
+{
+	"credit": "Made by Starseeker with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/plants/cornflower_models/cornflower",
+		"particle": "block/cornflower"
+	},
+	"elements": [
+		{
+			"name": "Hub",
+			"from": [10, 10, 10],
+			"to": [12, 14, 12],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#1"},
+				"down": {"uv": [2, 2, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem 1",
+			"from": [7, 0, 11],
+			"to": [15, 10, 11],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [11, 5, 11]},
+			"faces": {
+				"north": {"uv": [0, 6, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"south": {"uv": [8, 6, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem 2",
+			"from": [7, 0, 11],
+			"to": [15, 10, 11],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [11, 5, 11]},
+			"faces": {
+				"north": {"uv": [0, 6, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"south": {"uv": [8, 6, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 1",
+			"from": [8, 13.5, 9],
+			"to": [11, 13.5, 13],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [10, 14, 11]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"up": {"uv": [4, 0, 7, 4], "texture": "#1"},
+				"down": {"uv": [4, 0, 7, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 2",
+			"from": [11, 13.5, 9],
+			"to": [14, 13.5, 13],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [12, 14, 11]},
+			"faces": {
+				"north": {"uv": [3, 0, 0, 0], "texture": "#1"},
+				"east": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"south": {"uv": [3, 0, 0, 0], "texture": "#1"},
+				"west": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"up": {"uv": [7, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [7, 0, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 3",
+			"from": [9, 13.5, 8],
+			"to": [13, 13.5, 11],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [11, 13.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"up": {"uv": [4, 0, 7, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [7, 0, 4, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 4",
+			"from": [9, 13.5, 11],
+			"to": [13, 13.5, 14],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [11, 13.5, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"up": {"uv": [7, 0, 4, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [4, 0, 7, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hub",
+			"from": [3, 9, 8],
+			"to": [5, 13, 10],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, -1, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#1"},
+				"down": {"uv": [2, 2, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem 2",
+			"from": [0, -1, 9],
+			"to": [8, 9, 9],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 4, 9]},
+			"faces": {
+				"north": {"uv": [0, 6, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"south": {"uv": [8, 6, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem 3",
+			"from": [0, -1, 9],
+			"to": [8, 9, 9],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [4, 4, 9]},
+			"faces": {
+				"north": {"uv": [0, 6, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"south": {"uv": [8, 6, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 2",
+			"from": [1, 12.5, 7],
+			"to": [4, 12.5, 11],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [3, 13, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"up": {"uv": [4, 0, 7, 4], "texture": "#1"},
+				"down": {"uv": [4, 0, 7, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 3",
+			"from": [4, 12.5, 7],
+			"to": [7, 12.5, 11],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [5, 13, 9]},
+			"faces": {
+				"north": {"uv": [3, 0, 0, 0], "texture": "#1"},
+				"east": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"south": {"uv": [3, 0, 0, 0], "texture": "#1"},
+				"west": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"up": {"uv": [7, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [7, 0, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 4",
+			"from": [2, 12.5, 6],
+			"to": [6, 12.5, 9],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [4, 12.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"up": {"uv": [4, 0, 7, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [7, 0, 4, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 5",
+			"from": [2, 12.5, 9],
+			"to": [6, 12.5, 12],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [4, 12.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"up": {"uv": [7, 0, 4, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [4, 0, 7, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hub",
+			"from": [8, 9.5, 3],
+			"to": [10, 13.5, 5],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, -0.5, -4]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"south": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 4], "texture": "#1"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#1"},
+				"down": {"uv": [2, 2, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem 2",
+			"from": [5, -0.5, 4],
+			"to": [13, 9.5, 4],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [9, 4.5, 4]},
+			"faces": {
+				"north": {"uv": [0, 6, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"south": {"uv": [8, 6, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Stem 3",
+			"from": [5, -0.5, 4],
+			"to": [13, 9.5, 4],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [9, 4.5, 4]},
+			"faces": {
+				"north": {"uv": [0, 6, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"south": {"uv": [8, 6, 0, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 2",
+			"from": [6, 13, 2],
+			"to": [9, 13, 6],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 13.5, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"up": {"uv": [4, 0, 7, 4], "texture": "#1"},
+				"down": {"uv": [4, 0, 7, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 3",
+			"from": [9, 13, 2],
+			"to": [12, 13, 6],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [10, 13.5, 4]},
+			"faces": {
+				"north": {"uv": [3, 0, 0, 0], "texture": "#1"},
+				"east": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"south": {"uv": [3, 0, 0, 0], "texture": "#1"},
+				"west": {"uv": [4, 0, 0, 0], "texture": "#1"},
+				"up": {"uv": [7, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [7, 0, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 4",
+			"from": [7, 13, 1],
+			"to": [11, 13, 4],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [9, 13, 3]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"up": {"uv": [4, 0, 7, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [7, 0, 4, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Petal 5",
+			"from": [7, 13, 4],
+			"to": [11, 13, 7],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [9, 13, 5]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 0], "texture": "#1"},
+				"up": {"uv": [7, 0, 4, 4], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [4, 0, 7, 4], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Flower",
+			"origin": [8, 13.5, 9],
+			"color": 0,
+			"shade": false,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		},
+		{
+			"name": "Flower",
+			"origin": [8, 13.5, 9],
+			"color": 0,
+			"shade": false,
+			"children": [7, 8, 9, 10, 11, 12, 13]
+		},
+		{
+			"name": "Flower",
+			"origin": [8, 13.5, 9],
+			"color": 0,
+			"shade": false,
+			"children": [14, 15, 16, 17, 18, 19, 20]
+		}
+	]
+}

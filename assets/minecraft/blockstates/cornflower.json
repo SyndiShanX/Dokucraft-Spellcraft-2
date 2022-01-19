@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "": [
+	{ "model": "block/plants/cornflower/0" },
+	{ "model": "block/plants/cornflower/0", "y": 90 },
+	{ "model": "block/plants/cornflower/0", "y": 180 },
+	{ "model": "block/plants/cornflower/0", "y": 270 },
+	{ "model": "block/plants/cornflower/1" },
+	{ "model": "block/plants/cornflower/1", "y": 90 },
+	{ "model": "block/plants/cornflower/1", "y": 180 },
+	{ "model": "block/plants/cornflower/1", "y": 270 },
+	{ "model": "block/plants/cornflower/2" },
+	{ "model": "block/plants/cornflower/2", "y": 90 },
+	{ "model": "block/plants/cornflower/2", "y": 180 },
+	{ "model": "block/plants/cornflower/2", "y": 270 }
+	]
+    }
+}
+
