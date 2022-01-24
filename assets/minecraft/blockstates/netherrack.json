@@ -4,7 +4,13 @@
       { "model": "block/netherrack/netherrack_alt", "weight": 825 },
       { "model": "block/netherrack/netherrack_eyes", "weight": 800 },
       { "model": "block/netherrack/netherrack_big_eye", "weight": 25 },
-      { "model": "block/netherrack/netherrack_big_eye_2", "weight": 25 }
+      { "model": "block/netherrack/netherrack_big_eye_2", "weight": 25 },
+      { "model": "block/netherrack/0" },
+      { "model": "block/netherrack/1" },
+      { "model": "block/netherrack/2" },
+      { "model": "block/netherrack/3" },
+      { "model": "block/netherrack/4" },
+      { "model": "block/netherrack/5" }
     ]
   }
 }
