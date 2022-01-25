@@ -9,8 +9,7 @@
 			{ "model": "block/cobblestone/5" },
 			{ "model": "block/cobblestone/6" },
 			{ "model": "block/cobblestone/7" },
-			{ "model": "block/cobblestone/8" },
-			{ "model": "block/cobblestone/9" }
+			{ "model": "block/cobblestone/8" }
 		]
 	}
 }
