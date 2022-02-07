@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/tin/sides/0" },
+        { "model": "minecraft:block/deepslate_ores/tin/sides/1" },
+        { "model": "minecraft:block/deepslate_ores/tin/sides/2" },
+        { "model": "minecraft:block/deepslate_ores/tin/sides/3" },
+        { "model": "minecraft:block/deepslate_ores/tin/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/tin/ends/0" },
+        { "model": "minecraft:block/deepslate_ores/tin/ends/1" },
+        { "model": "minecraft:block/deepslate_ores/tin/ends/2" },
+        { "model": "minecraft:block/deepslate_ores/tin/ends/3" }
+      ]
+    }
+  ]
+}

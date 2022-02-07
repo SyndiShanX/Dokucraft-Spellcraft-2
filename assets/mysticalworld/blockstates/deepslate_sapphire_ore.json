@@ -1,0 +1,11 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/sapphire/sides/0" }
+      ]
+    },
+    { "apply": [
+        { "model": "minecraft:block/deepslate_ores/sapphire/ends/0" }
+      ]
+    }
+  ]
+}

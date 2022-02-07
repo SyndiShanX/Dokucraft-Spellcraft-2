@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "block/deepslate_ores/lead/ends/0",
+    "side": "block/deepslate_ores/lead/sides/0"
+  }
+}
