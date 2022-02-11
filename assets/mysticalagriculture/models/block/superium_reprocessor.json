@@ -1,9 +1,9 @@
 {
     "parent": "block/orientable",
     "textures": {
-        "top": "mysticalagriculture:blocks/superium_reprocessor_top",
-        "down": "mysticalagriculture:blocks/superium_reprocessor_bottom",
-        "front": "mysticalagriculture:blocks/superium_reprocessor_front",
-        "side": "mysticalagriculture:blocks/superium_reprocessor_side"
+        "top": "mysticalagriculture:block/superium_reprocessor_top",
+        "down": "mysticalagriculture:block/superium_reprocessor_bottom",
+        "front": "mysticalagriculture:block/superium_reprocessor_front",
+        "side": "mysticalagriculture:block/superium_reprocessor_side"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "mysticalagriculture:blocks/tier4_inferium_crop"
+        "cross": "mysticalagriculture:block/tier4_inferium_crop"
     }
 }
