@@ -1,0 +1,7 @@
+{
+	"parent": "torchslabmod:block/template_torch",
+	"textures": {
+		"torch": "minecraft:block/soul_fire_torch",
+		"fire": "minecraft:block/soul_fire_torch_flame"
+	}
+}
