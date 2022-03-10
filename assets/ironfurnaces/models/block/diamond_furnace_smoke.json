@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"top": "ironfurnaces:block/diamond_furnace_top_smoke",
+		"bottom": "ironfurnaces:block/diamond_furnace_bottom",
+		"front": "ironfurnaces:block/diamond_furnace_front_smoke",
+		"side": "ironfurnaces:block/diamond_furnace_side"
+	}
+}
