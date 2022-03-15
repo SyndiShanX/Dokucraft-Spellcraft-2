@@ -1,0 +1,9 @@
+{
+	"parent": "block/orientable_with_bottom",
+	"textures": {
+		"top": "ironfurnaces:block/gold_furnace_top_smoke",
+		"bottom": "ironfurnaces:block/gold_furnace_bottom",
+		"front": "ironfurnaces:block/gold_furnace_front_smoke",
+		"side": "ironfurnaces:block/gold_furnace_side"
+	}
+}
