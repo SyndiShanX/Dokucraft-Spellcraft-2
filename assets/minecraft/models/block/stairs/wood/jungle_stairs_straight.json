@@ -1,0 +1,9 @@
+{
+    "__comment": "Models Made by SyndiShanX",
+	"parent": "block/stairs/support_straight",
+	"textures": {
+        "plank": "block/jungle_planks",
+		"particle": "block/jungle_planks",
+		"beam": "block/jungle_planks"
+    }
+}

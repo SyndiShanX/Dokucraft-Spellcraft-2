@@ -1,0 +1,9 @@
+{
+    "__comment": "Models Made by SyndiShanX",
+	"parent": "block/stairs/support_inner_corner",
+	"textures": {
+        "plank": "block/acacia_planks",
+		"particle": "block/acacia_planks",
+		"beam": "block/acacia_planks"
+    }
+}
