@@ -1,0 +1,9 @@
+{
+    "__comment": "Models Made by SyndiShanX",
+	"parent": "block/stairs/support_straight",
+	"textures": {
+        "plank": "block/birch_planks",
+		"particle": "block/birch_planks",
+		"beam": "block/birch_planks"
+    }
+}
