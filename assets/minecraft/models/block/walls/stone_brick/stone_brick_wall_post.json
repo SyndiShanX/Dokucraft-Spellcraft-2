@@ -1,0 +1,48 @@
+{
+	"credit": "Made by CCCode, updated by SyndiShanX",
+	"parent": "block/block",
+	"textures": {
+		"0": "block/stone_brick_wall",
+		"particle": "block/stone_bricks"
+	},
+	"elements": [
+		{
+			"name": "Top",
+			"from": [5, 12, 5],
+			"to": [11, 16, 11],
+			"faces": {
+				"north": {"uv": [0.5, 0, 3.5, 2], "texture": "#0"},
+				"east": {"uv": [0.5, 0, 3.5, 2], "texture": "#0"},
+				"south": {"uv": [0.5, 0, 3.5, 2], "texture": "#0"},
+				"west": {"uv": [0.5, 0, 3.5, 2], "texture": "#0"},
+				"up": {"uv": [5, 0.5, 8, 3.5], "texture": "#0", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Top Post",
+			"from": [4, 13, 4],
+			"to": [12, 15, 12],
+			"faces": {
+				"north": {"uv": [0, 0.5, 4, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 4, 1.5], "texture": "#0"},
+				"south": {"uv": [0, 0.5, 4, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0.5, 4, 1.5], "texture": "#0"},
+				"up": {"uv": [4.5, 0, 8.5, 4], "texture": "#0"},
+				"down": {"uv": [4.5, 0, 8.5, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Main Post",
+			"from": [4, 0, 4],
+			"to": [12, 12, 12],
+			"faces": {
+				"north": {"uv": [0, 2, 4, 8], "texture": "#0"},
+				"east": {"uv": [0, 2, 4, 8], "texture": "#0"},
+				"south": {"uv": [0, 2, 4, 8], "texture": "#0"},
+				"west": {"uv": [0, 2, 4, 8], "texture": "#0"},
+				"up": {"uv": [9, 0, 13, 4], "texture": "#0"},
+				"down": {"uv": [9, 0, 13, 4], "texture": "#0"}
+			}
+		}
+	]
+}

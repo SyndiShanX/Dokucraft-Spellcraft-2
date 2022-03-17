@@ -1,0 +1,21 @@
+{
+	"credit": "Made by CCCode, updated by SyndiShanX",
+	"textures": {
+		"0": "block/stone_brick_wall",
+		"particle": "block/stone_bricks"
+	},
+	"elements": [
+		{
+			"name": "Post",
+			"from": [6, -1, -2],
+			"to": [10, 13, 2],
+			"faces": {
+				"north": {"uv": [2.5, 9, 4.5, 16], "texture": "#0"},
+				"east": {"uv": [2.5, 9, 4.5, 16], "texture": "#0"},
+				"south": {"uv": [2.5, 9, 4.5, 16], "texture": "#0"},
+				"west": {"uv": [2.5, 9, 4.5, 16], "texture": "#0"},
+				"down": {"uv": [5, 6.5, 7, 8.5], "texture": "#0"}
+			}
+		}
+	]
+}
