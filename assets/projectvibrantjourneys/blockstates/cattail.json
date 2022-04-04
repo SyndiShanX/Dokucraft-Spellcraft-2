@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"half=upper": [ 
+			{ "model": "projectvibrantjourneys:block/cattail/0_upper" },
+			{ "model": "projectvibrantjourneys:block/cattail/1_upper" },
+			{ "model": "projectvibrantjourneys:block/cattail/2_upper" },
+			{ "model": "projectvibrantjourneys:block/cattail/3_upper" }
+		],
+		"half=lower": [ 
+			{ "model": "projectvibrantjourneys:block/cattail/0_lower" },
+			{ "model": "projectvibrantjourneys:block/cattail/1_lower" },
+			{ "model": "projectvibrantjourneys:block/cattail/2_lower" },
+			{ "model": "projectvibrantjourneys:block/cattail/3_lower" }
+		]
+	}
+}
