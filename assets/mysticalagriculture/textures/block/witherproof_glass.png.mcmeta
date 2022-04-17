@@ -3,6 +3,6 @@
     "ctm_version": 1,
     "type": "ctm",
     "layer": "TRANSLUCENT",
-    "textures": [ "mysticalagriculture:blocks/witherproof_glass_ctm" ]
+    "textures": [ "mysticalagriculture:block/witherproof_glass_ctm" ]
   }
 }
