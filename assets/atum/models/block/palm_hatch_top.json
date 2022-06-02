@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/template_orientable_trapdoor_bottom",
 	"textures": {
-		"2": "atum:blocks/palm_hatch",
-		"particle": "atum:blocks/palm_hatch"
+		"2": "atum:block/palm_hatch",
+		"particle": "atum:block/palm_hatch"
 	},
 	"elements": [
 		{
