@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "mysticalagriculture:blocks/insanium_reprocessor_top",
+        "down": "mysticalagriculture:blocks/insanium_reprocessor_bottom",
+        "front": "mysticalagriculture:blocks/insanium_reprocessor_front",
+        "side": "mysticalagriculture:blocks/insanium_reprocessor_side"
+    }
+}

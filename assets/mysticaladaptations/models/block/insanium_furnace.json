@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "mysticalagriculture:blocks/insanium_furnace_top",
+        "down": "mysticalagriculture:blocks/insanium_furnace_bottom",
+        "front": "mysticalagriculture:blocks/insanium_furnace_front",
+        "side": "mysticalagriculture:blocks/insanium_furnace_side"
+    }
+}
