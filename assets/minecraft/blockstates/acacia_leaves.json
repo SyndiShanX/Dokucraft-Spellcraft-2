@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/leaves/bushy/acacia_leaves" },
+			{ "model": "block/leaves/bushy/acacia_leaves", "y": 90 },
+			{ "model": "block/leaves/bushy/acacia_leaves", "y": 180 },
+			{ "model": "block/leaves/bushy/acacia_leaves", "y": 270 }
+		]
+	}
+}
