@@ -1,7 +1,0 @@
-{
-	"credit": "Made by SyndiShanX",
-	"parent": "block/stairs/normal/stairs_inner_corner",
-	"textures": {
-		"block": "block/end_stone_bricks"
-	}
-}

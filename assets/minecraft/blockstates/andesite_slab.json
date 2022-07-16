@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/stone/andesite_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/stone/andesite_slab_top" },
-		"type=double": { "model":"block/andesite" }
-	}
-}

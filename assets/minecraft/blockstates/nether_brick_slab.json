@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/brick/nether_brick_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/brick/nether_brick_slab_top" },
-		"type=double": { "model":"block/nether_bricks" }
-	}
-}

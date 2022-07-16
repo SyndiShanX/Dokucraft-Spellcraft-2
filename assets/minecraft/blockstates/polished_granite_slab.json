@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/stone/polished_granite_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/stone/polished_granite_slab_top" },
-		"type=double": { "model":"block/polished_granite" }
-	}
-}

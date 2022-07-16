@@ -1,7 +1,0 @@
-{
-	"credit": "Made by SyndiShanX",
-	"parent": "block/stairs/normal/stairs_straight",
-	"textures": {
-		"block": "block/deepslate/polished/4"
-	}
-}

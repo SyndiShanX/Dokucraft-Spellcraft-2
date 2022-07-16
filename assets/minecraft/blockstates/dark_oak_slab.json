@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/wood/dark_oak_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/wood/dark_oak_slab_top" },
-		"type=double": { "model":"block/double_slab/dark_oak_slab_double" }
-	}
-}

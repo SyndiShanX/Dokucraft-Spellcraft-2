@@ -1,7 +1,0 @@
-{
-	"credit": "Made by SyndiShanX",
-	"parent": "block/slabs/snowy/slab_top",
-	"textures": {
-		"block": "block/polished_granite"
-	}
-}

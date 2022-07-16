@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/blackstone/polished_blackstone_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/blackstone/polished_blackstone_slab_top" },
-		"type=double": { "model":"block/double_slab/polished_blackstone_slab_double" }
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/wood/crimson_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/wood/crimson_slab_top" },
-		"type=double": { "model":"block/double_slab/crimson_slab_double" }
-	}
-}

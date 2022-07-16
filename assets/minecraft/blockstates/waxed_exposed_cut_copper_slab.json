@@ -1,7 +1,0 @@
-{
-	"variants": {
-		"type=bottom": { "model":"block/slabs/snowy/copper/exposed_cut_copper_slab_bottom" },
-		"type=top": { "model":"block/slabs/snowy/copper/exposed_cut_copper_slab_top" },
-		"type=double": { "model":"block/exposed_cut_copper" }
-	}
-}
