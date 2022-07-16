@@ -1,4 +1,3 @@
 {
-	"credit": "Made by SyndiShanX",
-	"parent": "block/fence/crimson/crimson_fence_gate"
+	"parent": "block/gate/crimson/crimson_fence_gate"
 }
