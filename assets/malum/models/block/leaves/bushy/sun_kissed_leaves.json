@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "malum:block/leaves/sun_kissed_leaves",
+        "extra": "malum:block/leaves/sun_kissed_leaves_extra"
+    }
+}

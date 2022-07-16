@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "witcheryrewitched:block/leaves/bushy/rowan_leaves" },
+			{ "model": "witcheryrewitched:block/leaves/bushy/rowan_leaves", "y": 90 },
+			{ "model": "witcheryrewitched:block/leaves/bushy/rowan_leaves", "y": 180 },
+			{ "model": "witcheryrewitched:block/leaves/bushy/rowan_leaves", "y": 270 }
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "twilightforest:block/leaves/canopy_leaves",
+        "extra": "twilightforest:block/leaves/canopy_leaves_extra"
+    }
+}

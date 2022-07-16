@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/leaves/bushy/sun_kissed_leaves" },
+			{ "model": "block/leaves/bushy/sun_kissed_leaves", "y": 90 },
+			{ "model": "block/leaves/bushy/sun_kissed_leaves", "y": 180 },
+			{ "model": "block/leaves/bushy/sun_kissed_leaves", "y": 270 }
+		]
+	}
+}

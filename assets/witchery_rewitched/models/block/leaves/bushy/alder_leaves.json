@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "witcheryrewitched:block/leaves/alder_leaves",
+        "extra": "witcheryrewitched:block/leaves/alder_leaves_extra"
+    }
+}

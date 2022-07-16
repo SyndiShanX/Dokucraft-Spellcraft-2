@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "quark:block/leaves/bushy/lavender_blossom_leaves" },
+			{ "model": "quark:block/leaves/bushy/lavender_blossom_leaves", "y": 90 },
+			{ "model": "quark:block/leaves/bushy/lavender_blossom_leaves", "y": 180 },
+			{ "model": "quark:block/leaves/bushy/lavender_blossom_leaves", "y": 270 }
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "cavesandcliffs:block/leaves/bushy/azalea_leaves" },
+			{ "model": "cavesandcliffs:block/leaves/bushy/azalea_leaves", "y": 90 },
+			{ "model": "cavesandcliffs:block/leaves/bushy/azalea_leaves", "y": 180 },
+			{ "model": "cavesandcliffs:block/leaves/bushy/azalea_leaves", "y": 270 }
+		]
+	}
+}

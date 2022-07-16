@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "occultism:block/leaves/bushy/otherworld_leaves" },
+			{ "model": "occultism:block/leaves/bushy/otherworld_leaves", "y": 90 },
+			{ "model": "occultism:block/leaves/bushy/otherworld_leaves", "y": 180 },
+			{ "model": "occultism:block/leaves/bushy/otherworld_leaves", "y": 270 }
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "biomesoplenty:block/leaves/bushy/rainbow_birch_leaves" },
+			{ "model": "biomesoplenty:block/leaves/bushy/rainbow_birch_leaves", "y": 90 },
+			{ "model": "biomesoplenty:block/leaves/bushy/rainbow_birch_leaves", "y": 180 },
+			{ "model": "biomesoplenty:block/leaves/bushy/rainbow_birch_leaves", "y": 270 }
+		]
+	}
+}

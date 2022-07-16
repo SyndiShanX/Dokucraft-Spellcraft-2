@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "occultism:block/leaves/otherworld_leaves_natural",
+        "extra": "occultism:block/leaves/otherworld_leaves_natural_extra"
+    }
+}

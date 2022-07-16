@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "quark:block/leaves/lavender_blossom_leaves",
+        "extra": "quark:block/leaves/lavender_blossom_leaves_extra"
+    }
+}

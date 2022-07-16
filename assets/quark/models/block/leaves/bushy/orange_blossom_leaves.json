@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "quark:block/leaves/orange_blossom_leaves",
+        "extra": "quark:block/leaves/orange_blossom_leaves_extra"
+    }
+}

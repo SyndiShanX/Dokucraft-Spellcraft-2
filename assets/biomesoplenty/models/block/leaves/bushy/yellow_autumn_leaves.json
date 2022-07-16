@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/leaves/bushy/leaves",
+    "textures": {
+        "all": "biomesoplenty:block/leaves/yellow_autumn_leaves",
+        "extra": "biomesoplenty:block/leaves/yellow_autumn_leaves_extra"
+    }
+}

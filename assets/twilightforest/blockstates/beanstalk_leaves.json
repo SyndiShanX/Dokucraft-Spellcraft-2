@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "twilightforest:block/leaves/bushy/beanstalk_leaves" },
+			{ "model": "twilightforest:block/leaves/bushy/beanstalk_leaves", "y": 90 },
+			{ "model": "twilightforest:block/leaves/bushy/beanstalk_leaves", "y": 180 },
+			{ "model": "twilightforest:block/leaves/bushy/beanstalk_leaves", "y": 270 }
+		]
+	}
+}
