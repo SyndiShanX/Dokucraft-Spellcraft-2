@@ -8,10 +8,10 @@
 			"apply": { "model": "block/fence/oak/oak_fence_side", "y": 90, "uvlock": false }
 		},
 		{ "when": { "south": "true" },
-			"apply": { "model": "block/fence/oak/oak_fence_side_s", "uvlock": false }
+			"apply": { "model": "block/fence/oak/oak_fence_side", "x": 180, "uvlock": false }
 		},
 		{ "when": { "west": "true" },
-			"apply": { "model": "block/fence/oak/oak_fence_side_s", "y": 90, "uvlock": false }
+			"apply": { "model": "block/fence/oak/oak_fence_side", "x": 180, "y": 90, "uvlock": false }
 		}
 	]
 }
