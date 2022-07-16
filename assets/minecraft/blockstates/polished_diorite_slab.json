@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model":"block/slabs/snowy/stone/polished_diorite_slab_bottom" },
+		"type=top": { "model":"block/slabs/snowy/stone/polished_diorite_slab_top" },
+		"type=double": { "model":"block/polished_diorite" }
+	}
+}

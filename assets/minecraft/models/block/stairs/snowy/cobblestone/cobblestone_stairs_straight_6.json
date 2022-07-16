@@ -1,0 +1,7 @@
+{
+	"credit": "Made by SyndiShanX",
+	"parent": "block/stairs/snowy/stairs_straight",
+	"textures": {
+		"block": "block/cobblestone/6"
+	}
+}

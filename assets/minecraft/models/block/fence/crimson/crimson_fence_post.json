@@ -1,7 +1,67 @@
 {
-    "parent": "block/fence/fence_post",
-    "textures": {
-        "particle": "block/crimson_planks",
-        "0": "block/fence/crimson_fence"
-    }
+	"credit": "Made by SyndiShanX",
+	"textures": {
+		"particle": "block/crimson_fence",
+		"fence": "block/crimson_fence"
+	},
+	"elements": [
+		{
+			"name": "post",
+			"from": [7, 13, 7],
+			"to": [9, 15.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"faces": {
+				"north": {"uv": [7, 0.5, 9, 3], "texture": "#fence"},
+				"east": {"uv": [7, 0.5, 9, 3], "texture": "#fence"},
+				"south": {"uv": [7, 0.5, 9, 3], "texture": "#fence"},
+				"west": {"uv": [7, 0.5, 9, 3], "texture": "#fence"},
+				"up": {"uv": [5, 2, 7, 4], "rotation": 90, "texture": "#fence"},
+				"down": {"uv": [5, 0, 7, 2], "rotation": 90, "texture": "#fence"}
+			}
+		},
+		{
+			"name": "post",
+			"from": [7, 0, 7],
+			"to": [9, 12.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 15]},
+			"faces": {
+				"north": {"uv": [7, 3.5, 9, 16], "texture": "#fence"},
+				"east": {"uv": [7, 3.5, 9, 16], "texture": "#fence"},
+				"south": {"uv": [7, 3.5, 9, 16], "texture": "#fence"},
+				"west": {"uv": [7, 3.5, 9, 16], "texture": "#fence"},
+				"up": {"uv": [5, 0, 7, 2], "rotation": 90, "texture": "#fence"},
+				"down": {"uv": [5, 2, 7, 4], "rotation": 90, "texture": "#fence"}
+			}
+		},
+		{
+			"name": "post",
+			"from": [7.5, 12.5, 7.5],
+			"to": [8.5, 13, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"east": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"south": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"west": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"}
+			}
+		},
+		{
+			"name": "post",
+			"from": [7.5, 15.5, 7.5],
+			"to": [8.5, 16, 8.5],
+			"faces": {
+				"north": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"east": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"south": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"west": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#fence"},
+				"up": {"uv": [4, 0, 5, 1], "texture": "#fence"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Post",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}
+	]
 }

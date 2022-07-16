@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "block/stone_bricks",
+		"sides": "block/stone_brick_wall_post",
+		"top": "block/stone_brick_wall_post_top",
+		"bottom": "block/stone_brick_wall_post_bottom"
+    },
+    "elements": [
+        {   "from": [ 4, 0, 4 ],
+            "to": [ 12, 16, 12 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#sides" },
+                "south": { "texture": "#sides" },
+                "west":  { "texture": "#sides" },
+                "east":  { "texture": "#sides" }
+            },
+            "__comment": "Center post"
+        }
+    ]
+}

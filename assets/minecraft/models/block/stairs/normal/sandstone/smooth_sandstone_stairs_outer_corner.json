@@ -1,0 +1,37 @@
+{
+	"credit": "Made by SyndiShanX",
+	"parent": "block/block",
+	"textures": {
+		"block1": "block/smooth_sandstone_stair_corner",
+		"block2": "block/smooth_sandstone_stair_top",
+		"block3": "block/smooth_sandstone_bottom",
+		"particle": "block/smooth_sandstone_bottom"
+	},
+	"elements": [
+		{
+			"name": "Top Stair",
+			"from": [0, 8, 0],
+			"to": [8, 16, 8],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 8], "texture": "#block1"},
+				"east": {"uv": [0, 0, 8, 8], "texture": "#block1"},
+				"south": {"uv": [0, 0, 8, 8], "texture": "#block1"},
+				"west": {"uv": [8, 8, 0, 16], "rotation": 270, "texture": "#block1"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#block1"}
+			}
+		},
+		{
+			"name": "Bottom Stair",
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#block1"},
+				"east": {"uv": [8, 0, 16, 16], "rotation": 90, "texture": "#block2"},
+				"south": {"uv": [8, 0, 16, 16], "rotation": 90, "texture": "#block2"},
+				"west": {"uv": [8, 0, 16, 16], "rotation": 90, "texture": "#block1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#block3"}
+			}
+		}
+	]
+}

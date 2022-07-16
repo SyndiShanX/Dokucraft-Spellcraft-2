@@ -1,3 +1,4 @@
 {
-    "parent": "block/fence/crimson/crimson_fence_inventory"
+	"credit": "Made by SyndiShanX",
+	"parent": "block/fence/crimson/crimson_fence_item"
 }

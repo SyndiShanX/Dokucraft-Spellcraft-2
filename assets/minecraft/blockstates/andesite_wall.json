@@ -102,132 +102,76 @@
       ]
     },
     { "when": { "OR": [
-				{ "north": "low", "east": "none", "south": "low", "west": "none" }
-		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_railing" }
-    },
-		{ "when": { "OR": [
+				{ "north": "low", "east": "none", "south": "low", "west": "none" },
 				{ "north": "tall", "east": "none", "south": "low", "west": "none" },
 				{ "north": "low", "east": "none", "south": "tall", "west": "none" },
 				{ "north": "tall", "east": "none", "south": "tall", "west": "none" }
 		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_railing_tall" }
+      "apply": { "model": "block/walls/andesite/andesite_wall_railing" }
     },
     { "when": { "OR": [
-				{ "north": "none", "east": "low", "south": "none", "west": "low" }
-		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_railing", "y": 90 }
-    },
-		{ "when": { "OR": [
+				{ "north": "none", "east": "low", "south": "none", "west": "low" },
 				{ "north": "none", "east": "tall", "south": "none", "west": "low" },
 				{ "north": "none", "east": "low", "south": "none", "west": "tall" },
 				{ "north": "none", "east": "tall", "south": "none", "west": "tall" }
 		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_railing_tall", "y": 90 }
+      "apply": { "model": "block/walls/andesite/andesite_wall_railing", "y": 90 }
     },
     { "when": { "OR": [
         { "north": "low", "east": "none", "south": "none", "west": "none" },
-        { "north": "low", "east": "low" },
-        { "north": "low", "west": "low" }
-      ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side" }
-    },
-		{ "when": { "OR": [
         { "north": "tall", "east": "none", "south": "none", "west": "none" },
+        { "north": "low", "east": "low" },
         { "north": "tall", "east": "low" },
         { "north": "low", "east": "tall" },
         { "north": "tall", "east": "tall" },
+        { "north": "low", "west": "low" },
         { "north": "tall", "west": "low" },
         { "north": "low", "west": "tall" },
         { "north": "tall", "west": "tall" }
       ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side_tall" }
+      "apply": { "model": "block/walls/andesite/andesite_wall_side" }
     },
     { "when": { "OR": [
         { "north": "none", "east": "low", "south": "none", "west": "none" },
-        { "east": "low", "north": "low" },
-        { "east": "low", "south": "low" }
-      ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side", "y": 90 }
-    },
-		{ "when": { "OR": [
         { "north": "none", "east": "tall", "south": "none", "west": "none" },
+        { "east": "low", "north": "low" },
         { "east": "tall", "north": "low" },
         { "east": "low", "north": "tall" },
         { "east": "tall", "north": "tall" },
+        { "east": "low", "south": "low" },
         { "east": "tall", "south": "low" },
         { "east": "low", "south": "tall" },
         { "east": "tall", "south": "tall" }
       ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side_tall", "y": 90 }
+      "apply": { "model": "block/walls/andesite/andesite_wall_side", "y": 90 }
     },
     { "when": { "OR": [
         { "north": "none", "east": "none", "south": "low", "west": "none" },
-        { "south": "low", "east": "low" },
-        { "south": "low", "west": "low" }
-      ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side", "y": 180 }
-    },
-		{ "when": { "OR": [
         { "north": "none", "east": "none", "south": "tall", "west": "none" },
+        { "south": "low", "east": "low" },
         { "south": "tall", "east": "low" },
         { "south": "low", "east": "tall" },
         { "south": "tall", "east": "tall" },
+        { "south": "low", "west": "low" },
         { "south": "tall", "west": "low" },
         { "south": "low", "west": "tall" },
         { "south": "tall", "west": "tall" }
       ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side_tall", "y": 180 }
+      "apply": { "model": "block/walls/andesite/andesite_wall_side", "y": 180 }
     },
     { "when": { "OR": [
         { "north": "none", "east": "none", "south": "none", "west": "low" },
-        { "west": "low", "north": "low" },
-        { "west": "low", "south": "low" }
-      ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side", "y": 270 }
-    },
-		{ "when": { "OR": [
         { "north": "none", "east": "none", "south": "none", "west": "tall" },
+        { "west": "low", "north": "low" },
         { "west": "tall", "north": "low" },
         { "west": "low", "north": "tall" },
         { "west": "tall", "north": "tall" },
+        { "west": "low", "south": "low" },
         { "west": "tall", "south": "low" },
         { "west": "low", "south": "tall" },
         { "west": "tall", "south": "tall" }
       ]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_side_tall", "y": 270 }
-    },
-		{ "when": { "OR": [
-				{ "north": "tall", "east": "none", "south": "low", "west": "none", "up": "true" },
-				{ "north": "none", "east": "tall", "south": "low", "west": "none", "up": "true" },
-				{ "north": "none", "east": "none", "south": "low", "west": "tall", "up": "true" },
-				{ "north": "tall", "east": "tall", "south": "low", "west": "tall", "up": "true" }
-		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_tall_low_connector" }
-    },
-		{ "when": { "OR": [
-				{ "north": "none", "east": "tall", "south": "none", "west": "low", "up": "true" },
-				{ "north": "none", "east": "none", "south": "tall", "west": "low", "up": "true" },
-				{ "north": "tall", "east": "none", "south": "none", "west": "low", "up": "true" },
-				{ "north": "tall", "east": "tall", "south": "tall", "west": "low", "up": "true" }
-		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_tall_low_connector", "y": 90 }
-    },
-		{ "when": { "OR": [
-				{ "north": "low", "east": "none", "south": "tall", "west": "none", "up": "true" },
-				{ "north": "low", "east": "none", "south": "none", "west": "tall", "up": "true" },
-				{ "north": "low", "east": "tall", "south": "none", "west": "none", "up": "true" },
-				{ "north": "low", "east": "tall", "south": "tall", "west": "tall", "up": "true" }
-		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_tall_low_connector", "y": 180 }
-    },
-		{ "when": { "OR": [
-				{ "north": "none", "east": "low", "south": "none", "west": "tall", "up": "true" },
-				{ "north": "none", "east": "low", "south": "tall", "west": "none", "up": "true" },
-				{ "north": "tall", "east": "low", "south": "none", "west": "none", "up": "true" },
-				{ "north": "tall", "east": "low", "south": "tall", "west": "tall", "up": "true" }
-		]},
-      "apply": { "model": "block/walls/andesite/andesite_wall_tall_low_connector", "y": 270 }
+      "apply": { "model": "block/walls/andesite/andesite_wall_side", "y": 270 }
     }
   ]
 }

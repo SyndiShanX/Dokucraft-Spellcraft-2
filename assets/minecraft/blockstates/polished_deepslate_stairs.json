@@ -1,0 +1,294 @@
+{
+	"__comment": "Models Made by SyndiShanX",
+	"variants": {
+		"facing=north,half=bottom,shape=straight": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_0", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_1", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_2", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_3", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_4", "y": 90, "uvlock": false }
+		],
+		"facing=west,half=bottom,shape=straight": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_0", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_1", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_2", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_3", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_4", "uvlock": false }
+		],
+		"facing=south,half=bottom,shape=straight": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_0", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_1", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_2", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_3", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_4", "y": 270, "uvlock": false }
+		],
+		"facing=east,half=bottom,shape=straight": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_0", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_1", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_2", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_3", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_straight_4", "y": 180, "uvlock": false }
+		],
+		
+		"facing=north,half=bottom,shape=outer_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "y": 90, "uvlock": false }
+		],
+		"facing=west,half=bottom,shape=outer_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "uvlock": false }
+		],
+		"facing=south,half=bottom,shape=outer_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "y": 270, "uvlock": false }
+		],
+		"facing=east,half=bottom,shape=outer_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "y": 180, "uvlock": false }
+		],
+		
+		"facing=north,half=bottom,shape=outer_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "uvlock": false }
+		],
+		"facing=west,half=bottom,shape=outer_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "y": 270, "uvlock": false }
+		],
+		"facing=south,half=bottom,shape=outer_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "y": 180, "uvlock": false }
+		],
+		"facing=east,half=bottom,shape=outer_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_0", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_1", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_2", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_3", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_outer_corner_4", "y": 90, "uvlock": false }
+		],
+		
+		"facing=north,half=bottom,shape=inner_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "y": 90, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "y": 90, "uvlock": false }
+		],
+		"facing=west,half=bottom,shape=inner_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "uvlock": false }
+		],
+		"facing=south,half=bottom,shape=inner_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "y": 270, "uvlock": false }
+		],
+		"facing=east,half=bottom,shape=inner_right": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "y": 180,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "y": 180,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "y": 180,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "y": 180,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "y": 180,"uvlock": false }
+		],
+		
+		"facing=north,half=bottom,shape=inner_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "uvlock": false }
+		],
+		"facing=west,half=bottom,shape=inner_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "y": 270, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "y": 270, "uvlock": false }
+		],
+		"facing=south,half=bottom,shape=inner_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "y": 180, "uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "y": 180, "uvlock": false }
+		],
+		"facing=east,half=bottom,shape=inner_left": [
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_0", "y": 90,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_1", "y": 90,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_2", "y": 90,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_3", "y": 90,"uvlock": false },
+			{ "model": "block/stairs/snowy/deepslate/polished_deepslate_stairs_inner_corner_4", "y": 90,"uvlock": false }
+		],
+		
+		"facing=north,half=top,shape=straight": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_0", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_1", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_2", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_3", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_4", "x": 180, "y": 90, "uvlock": false }
+		],
+		"facing=west,half=top,shape=straight": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_0", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_1", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_2", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_3", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_4", "x": 180, "uvlock": false }
+		],
+		"facing=south,half=top,shape=straight": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_0", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_1", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_2", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_3", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_4", "x": 180, "y": 270, "uvlock": false }
+		],
+		"facing=east,half=top,shape=straight": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_0", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_1", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_2", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_3", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_straight_4", "x": 180, "y": 180, "uvlock": false }
+		],
+		
+		"facing=north,half=top,shape=outer_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "y": 180, "uvlock": false }
+		],
+		"facing=west,half=top,shape=outer_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "y": 90, "uvlock": false }
+		],
+		"facing=south,half=top,shape=outer_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "uvlock": false }
+		],
+		"facing=east,half=top,shape=outer_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "y": 270, "uvlock": false }
+		],
+		
+		"facing=north,half=top,shape=outer_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "y": 90, "uvlock": false }
+		],
+		"facing=west,half=top,shape=outer_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "uvlock": false }
+		],
+		"facing=south,half=top,shape=outer_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "y": 270, "uvlock": false }
+		],
+		"facing=east,half=top,shape=outer_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_0", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_1", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_2", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_3", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_outer_corner_4", "x": 180, "y": 180, "uvlock": false }
+		],
+		
+		"facing=north,half=top,shape=inner_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "y": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "y": 180, "uvlock": false }
+		],
+		"facing=west,half=top,shape=inner_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "y": 90, "uvlock": false }
+		],
+		"facing=south,half=top,shape=inner_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "uvlock": false }
+		],
+		"facing=east,half=top,shape=inner_right": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "y": 270,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "y": 270,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "y": 270,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "y": 270,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "y": 270,"uvlock": false }
+		],
+		
+		"facing=north,half=top,shape=inner_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "y": 90, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "y": 90, "uvlock": false }
+		],
+		"facing=west,half=top,shape=inner_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "uvlock": false }
+		],
+		"facing=south,half=top,shape=inner_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "y": 270, "uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "y": 270, "uvlock": false }
+		],
+		"facing=east,half=top,shape=inner_left": [
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_0", "x": 180, "y": 180,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_1", "x": 180, "y": 180,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_2", "x": 180, "y": 180,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_3", "x": 180, "y": 180,"uvlock": false },
+			{ "model": "block/stairs/normal/deepslate/polished_deepslate_stairs_inner_corner_4", "x": 180, "y": 180,"uvlock": false }
+		]
+	}
+}

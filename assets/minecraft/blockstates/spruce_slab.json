@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model":"block/slabs/snowy/wood/spruce_slab_bottom" },
+		"type=top": { "model":"block/slabs/snowy/wood/spruce_slab_top" },
+		"type=double": { "model":"block/double_slab/spruce_slab_double" }
+	}
+}

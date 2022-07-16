@@ -1,0 +1,7 @@
+{
+	"credit": "Made by SyndiShanX",
+	"parent": "block/stairs/normal/stairs_inner_corner",
+	"textures": {
+		"block": "block/cobblestone/5"
+	}
+}

@@ -1,12 +1,7 @@
 {
-	"variants": {
-    "": [
-      { "model": "block/grass_path/grass_path", "weight": 1000 },
-      { "model": "block/grass_path/grass_path_1", "weight": 30 },
-      { "model": "block/grass_path/grass_path_2", "weight": 10 },
-      { "model": "block/grass_path/grass_path_3", "weight": 20 },
-      { "model": "block/grass_path/grass_path_4", "weight": 10 },
-      { "model": "block/grass_path/grass_path_5", "weight": 2 }
-    ]
-  }
+    "variants": {
+        "": [
+            { "model": "block/grass_path" }
+        ]
+    }
 }

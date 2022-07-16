@@ -1,0 +1,38 @@
+{
+	"credit": "Made by SyndiShanX",
+	"textures": {
+		"block1": "block/red_sandstone",
+		"block2": "block/red_sandstone_top",
+		"block3": "block/red_sandstone_bottom",
+		"snow": "block/snowy_blocks/snow",
+		"snow_slabs": "block/snowy_blocks/snow_slabs",
+		"particle": "block/red_sandstone"
+	},
+	"elements": [
+		{
+			"name": "Slab",
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#block1", "cullface": "up"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#block1", "cullface": "up"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#block1", "cullface": "up"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#block1", "cullface": "up"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block2", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#block3", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Slab Snow Layer",
+			"from": [-0.01, 8, -0.01],
+			"to": [16.01, 16.01, 16.01],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 4], "texture": "#snow_slabs", "cullface": "up"},
+				"east": {"uv": [0, 0, 8, 4], "texture": "#snow_slabs", "cullface": "up"},
+				"south": {"uv": [0, 0, 8, 4], "texture": "#snow_slabs", "cullface": "up"},
+				"west": {"uv": [0, 0, 8, 4], "texture": "#snow_slabs", "cullface": "up"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#snow", "cullface": "up"}
+			}
+		}
+	]
+}

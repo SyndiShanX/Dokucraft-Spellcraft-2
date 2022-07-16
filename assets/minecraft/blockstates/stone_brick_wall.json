@@ -92,8 +92,7 @@
 				{ "north": "none", "east": "tall", "south": "tall", "west": "low" },
         { "north": "low", "east": "none", "south": "tall", "west": "tall" },
 				{ "north": "tall", "east": "tall", "south": "none", "west": "low" },
-				{ "north": "low", "east": "tall", "south": "tall", "west": "none" },
-				{ "up": "true" }
+				{ "north": "low", "east": "tall", "south": "tall", "west": "none" }
       ]},
       "apply": [
         { "model": "block/walls/stone_brick/stone_brick_wall_post" },
@@ -101,30 +100,6 @@
         { "model": "block/walls/stone_brick/stone_brick_wall_post", "y": 180 },
         { "model": "block/walls/stone_brick/stone_brick_wall_post", "y": 270 }
       ]
-    },
-		{ "when": { "OR": [
-				{ "north": "low", "east": "none", "south": "low", "west": "none" }
-		]},
-      "apply": { "model": "block/walls/stone_brick/stone_brick_wall_railing" }
-    },
-		{ "when": { "OR": [
-				{ "north": "tall", "east": "none", "south": "low", "west": "none" },
-				{ "north": "low", "east": "none", "south": "tall", "west": "none" },
-				{ "north": "tall", "east": "none", "south": "tall", "west": "none" }
-		]},
-      "apply": { "model": "block/walls/stone_brick/stone_brick_wall_railing_tall" }
-    },
-    { "when": { "OR": [
-				{ "north": "none", "east": "low", "south": "none", "west": "low" }
-		]},
-      "apply": { "model": "block/walls/stone_brick/stone_brick_wall_railing", "y": 90 }
-    },
-		{ "when": { "OR": [
-				{ "north": "none", "east": "tall", "south": "none", "west": "low" },
-				{ "north": "none", "east": "low", "south": "none", "west": "tall" },
-				{ "north": "none", "east": "tall", "south": "none", "west": "tall" }
-		]},
-      "apply": { "model": "block/walls/stone_brick/stone_brick_wall_railing_tall", "y": 90 }
     },
 		{ "when": { "OR": [
 				{ "north": "low", "east": "none", "south": "low", "west": "none" },
@@ -143,7 +118,10 @@
       "apply": { "model": "block/walls/stone_brick/stone_brick_wall_railing", "y": 90 }
     },
     { "when": { "OR": [
-				{ "north": "low", "east": "none", "south": "low", "west": "none" }
+				{ "north": "low", "east": "none", "south": "low", "west": "none" },
+				{ "north": "tall", "east": "none", "south": "low", "west": "none" },
+				{ "north": "low", "east": "none", "south": "tall", "west": "none" },
+				{ "north": "tall", "east": "none", "south": "tall", "west": "none" }
 			]},
       "apply": [
         { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1", "weight": 502 },
@@ -152,7 +130,10 @@
       ]
     },
     { "when": { "OR": [ 
-				{ "north": "none", "east": "low", "south": "none", "west": "low" }
+				{ "north": "none", "east": "low", "south": "none", "west": "low" },
+				{ "north": "none", "east": "tall", "south": "none", "west": "low" },
+				{ "north": "none", "east": "low", "south": "none", "west": "tall" },
+				{ "north": "none", "east": "tall", "south": "none", "west": "tall" }
 			]},
       "apply": [
         { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1", "weight": 502, "y": 90 },
@@ -161,7 +142,10 @@
       ]
     },
     { "when": { "OR": [
-				{ "north": "low", "east": "none", "south": "low", "west": "none" }
+				{ "north": "low", "east": "none", "south": "low", "west": "none" },
+				{ "north": "tall", "east": "none", "south": "low", "west": "none" },
+				{ "north": "low", "east": "none", "south": "tall", "west": "none" },
+				{ "north": "tall", "east": "none", "south": "tall", "west": "none" }
 			]},
       "apply": [
         { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1", "weight": 505, "y": 180 },
@@ -170,57 +154,15 @@
       ]
     },
     { "when": { "OR": [
-				{ "north": "none", "east": "low", "south": "none", "west": "low" }
+				{ "north": "none", "east": "low", "south": "none", "west": "low" },
+				{ "north": "none", "east": "tall", "south": "none", "west": "low" },
+				{ "north": "none", "east": "low", "south": "none", "west": "tall" },
+				{ "north": "none", "east": "tall", "south": "none", "west": "tall" }
 			]},
       "apply": [
         { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1", "weight": 505, "y": 270 },
         { "model": "block/walls/stone_brick/stone_brick_wall_small_post_2", "weight": 504, "y": 270 },
         { "model": "block/walls/stone_brick/stone_brick_wall_small_post_3", "weight": 503, "y": 270 }
-      ]
-    },
-		
-		{ "when": { "OR": [
-				{ "north": "tall", "east": "none", "south": "low", "west": "none" },
-				{ "north": "low", "east": "none", "south": "tall", "west": "none" },
-				{ "north": "tall", "east": "none", "south": "tall", "west": "none" }
-			]},
-      "apply": [
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1_tall", "weight": 502 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_2_tall", "weight": 501 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_3_tall", "weight": 500 }
-      ]
-    },
-    { "when": { "OR": [ 
-				{ "north": "none", "east": "tall", "south": "none", "west": "low" },
-				{ "north": "none", "east": "low", "south": "none", "west": "tall" },
-				{ "north": "none", "east": "tall", "south": "none", "west": "tall" }
-			]},
-      "apply": [
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1_tall", "weight": 502, "y": 90 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_2_tall", "weight": 501, "y": 90 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_3_tall", "weight": 500, "y": 90 }
-      ]
-    },
-    { "when": { "OR": [
-				{ "north": "tall", "east": "none", "south": "low", "west": "none" },
-				{ "north": "low", "east": "none", "south": "tall", "west": "none" },
-				{ "north": "tall", "east": "none", "south": "tall", "west": "none" }
-			]},
-      "apply": [
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1_tall", "weight": 505, "y": 180 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_2_tall", "weight": 504, "y": 180 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_3_tall", "weight": 503, "y": 180 }
-      ]
-    },
-    { "when": { "OR": [
-				{ "north": "none", "east": "tall", "south": "none", "west": "low" },
-				{ "north": "none", "east": "low", "south": "none", "west": "tall" },
-				{ "north": "none", "east": "tall", "south": "none", "west": "tall" }
-			]},
-      "apply": [
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_1_tall", "weight": 505, "y": 270 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_2_tall", "weight": 504, "y": 270 },
-        { "model": "block/walls/stone_brick/stone_brick_wall_small_post_3_tall", "weight": 503, "y": 270 }
       ]
     },
     { "when": { "OR": [
@@ -265,7 +207,7 @@
       ]},
       "apply": { "model": "block/walls/stone_brick/stone_brick_wall_side", "y": 180 }
     },
-		{ "when": { "OR": [
+    { "when": { "OR": [
         { "north": "none", "east": "none", "south": "none", "west": "low" },
         { "north": "none", "east": "none", "south": "none", "west": "tall" },
         { "west": "low", "north": "low" },

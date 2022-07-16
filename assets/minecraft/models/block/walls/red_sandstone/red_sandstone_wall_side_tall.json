@@ -1,0 +1,115 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"sandstone": "block/red_sandstone_wall",
+		"particle": "block/red_sandstone"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [5.4, 0, 0],
+			"to": [10.6, 6.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.9, 0]},
+			"faces": {
+				"north": {"uv": [3.508, 9.258, 6.242, 12.492], "texture": "#sandstone"},
+				"east": {"uv": [11.008, 12.758, 14.992, 15.992], "texture": "#sandstone"},
+				"west": {"uv": [7.008, 12.758, 10.992, 15.992], "texture": "#sandstone"},
+				"down": {"uv": [0.008, 8.008, 3.492, 11.992], "rotation": 180, "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "detailbase",
+			"from": [5, 0.01, 2.25],
+			"to": [11, 4.51, 5.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 3.75]},
+			"faces": {
+				"north": {"uv": [9.758, 14.258, 12.742, 14.492], "rotation": 90, "texture": "#sandstone"},
+				"east": {"uv": [13.008, 14.258, 14.992, 15.992], "rotation": 270, "texture": "#sandstone"},
+				"south": {"uv": [9.758, 14.258, 12.742, 14.492], "rotation": 90, "texture": "#sandstone"},
+				"west": {"uv": [13.008, 14.258, 14.992, 15.992], "rotation": 270, "texture": "#sandstone"},
+				"down": {"uv": [0.008, 9.508, 3.492, 14.992], "rotation": 270, "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "detailtip",
+			"from": [5.01, 2.73327, 2.98595],
+			"to": [10.99, 5.20827, 5.46095],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.999, 3.97077, 3.46086]},
+			"faces": {
+				"east": {"uv": [7.758, 8.008, 9.242, 9.492], "rotation": 270, "texture": "#sandstone"},
+				"south": {"uv": [0.008, 14.008, 0.242, 15.492], "texture": "#sandstone"},
+				"west": {"uv": [7.758, 8.008, 9.242, 9.492], "texture": "#sandstone"},
+				"up": {"uv": [0.008, 14.008, 0.242, 15.492], "rotation": 180, "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [6.75, 6.5, 0],
+			"to": [9.25, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.3, 8, 0]},
+			"faces": {
+				"north": {"uv": [1.008, 9.758, 2.242, 14.492], "texture": "#sandstone"},
+				"east": {"uv": [11.008, 8.008, 14.992, 12.742], "texture": "#sandstone"},
+				"west": {"uv": [7.008, 8.008, 10.992, 12.742], "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "slope4bottom",
+			"from": [8.84068, 12.59082, 0.002],
+			"to": [10.14068, 16.19082, 8],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [9.89068, 14.94082, -0.001]},
+			"faces": {
+				"north": {"uv": [5.508, 10.992, 6.242, 9.258], "rotation": 180, "texture": "#sandstone"},
+				"east": {"uv": [14.992, 9.742, 11.008, 8.008], "rotation": 180, "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "slope4",
+			"from": [8.84068, 6.30918, 0.001],
+			"to": [10.14068, 9.90918, 7.999],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [9.89068, 7.55918, 0]},
+			"faces": {
+				"north": {"uv": [3.508, 7.508, 4.242, 9.242], "texture": "#sandstone"},
+				"east": {"uv": [11.008, 11.008, 14.992, 12.742], "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [6.77766, 12.67403, 0.001],
+			"to": [9.22234, 15.97403, 7.999],
+			"rotation": {"angle": 0, "axis": "z", "origin": [5.52766, 15.92403, -0.001]},
+			"faces": {
+				"north": {"uv": [2.008, 13.008, 3.65, 14.22225], "rotation": 90, "texture": "#sandstone"},
+				"down": {"uv": [11.008, 12.742, 14.992, 11.008], "rotation": 270, "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "slope3bottom",
+			"from": [5.85932, 12.59082, 0.002],
+			"to": [7.15932, 16.19082, 8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [6.10932, 14.94082, -0.001]},
+			"faces": {
+				"north": {"uv": [3.508, 10.992, 4.242, 9.258], "rotation": 180, "texture": "#sandstone"},
+				"west": {"uv": [10.992, 9.742, 7.008, 8.008], "rotation": 180, "texture": "#sandstone"}
+			}
+		},
+		{
+			"name": "slope3",
+			"from": [5.85932, 6.30918, 0.001],
+			"to": [7.15932, 9.90918, 7.999],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [6.10932, 7.55918, 0]},
+			"faces": {
+				"north": {"uv": [5.508, 7.508, 6.242, 9.242], "texture": "#sandstone"},
+				"west": {"uv": [7.008, 11.008, 10.992, 12.742], "texture": "#sandstone"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "sandstone_wall_side",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+		}
+	]
+}

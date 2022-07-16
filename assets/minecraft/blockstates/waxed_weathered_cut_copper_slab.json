@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model":"block/slabs/snowy/copper/weathered_cut_copper_slab_bottom" },
+		"type=top": { "model":"block/slabs/snowy/copper/weathered_cut_copper_slab_top" },
+		"type=double": { "model":"block/weathered_cut_copper" }
+	}
+}
