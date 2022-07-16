@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/plants/oxeye_daisy_models/oxeye_daisy",
-		"particle": "block/plants/oxeye_daisy"
+		"particle": "block/oxeye_daisy"
 	},
 	"elements": [
 		{

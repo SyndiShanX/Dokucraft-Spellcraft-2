@@ -1,11 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/birch_fence",
-		"particle": "block/birch_fence"
+		"0": "block/fence/birch_fence",
+		"particle": "block/fence/birch_fence"
 	},
 	"elements": [
 		{
+			"name": "Post",
 			"from": [7, 0, 7],
 			"to": [9, 16, 9],
 			"faces": {
@@ -16,12 +17,6 @@
 				"up": {"uv": [0, 9.5, 2, 11.5], "texture": "#0"},
 				"down": {"uv": [2.5, 9.5, 4.5, 11.5], "texture": "#0"}
 			}
-		}
-	],
-	"groups": [
-		{
-			"name": "Post",
-			"children": [0]
 		}
 	]
 }

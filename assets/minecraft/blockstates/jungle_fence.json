@@ -1,26 +1,21 @@
 {
-    "multipart": [
-        {   "apply": { "model": "block/fence/jungle/jungle_fence_post" }},
-        {   "when": { "OR": [
-                { "north": true },
-                { "east": true },
-                { "south": true },
-                { "west": true }
-            ]
-        },
-            "apply": { "model": "block/fence/jungle/jungle_fence_knots" }
-        },
-        {   "when": { "north": "true" },
-            "apply": { "model": "block/fence/jungle/jungle_fence_side" }
-        },
-        {   "when": { "east": "true" },
-            "apply": { "model": "block/fence/jungle/jungle_fence_side", "y": 90 }
-        },
-        {   "when": { "south": "true" },
-            "apply": { "model": "block/fence/jungle/jungle_fence_side", "y": 180 }
-        },
-        {   "when": { "west": "true" },
-            "apply": { "model": "block/fence/jungle/jungle_fence_side", "y": 270 }
-        }
-    ]
+	"multipart": [
+		{ "apply": { "model": "block/fence/jungle/jungle_fence_post" }},
+		{ "when": { "OR": [ { "north": true }, { "east": true }, { "south": true }, { "west": true } ]
+		},
+			"apply": { "model": "block/fence/jungle/jungle_fence_knots" }
+		},
+		{ "when": { "north": "true" },
+			"apply": { "model": "block/fence/jungle/jungle_fence_side" }
+		},
+		{ "when": { "east": "true" },
+			"apply": { "model": "block/fence/jungle/jungle_fence_side", "y": 90 }
+		},
+		{ "when": { "south": "true" },
+			"apply": { "model": "block/fence/jungle/jungle_fence_side", "y": 180 }
+		},
+		{ "when": { "west": "true" },
+			"apply": { "model": "block/fence/jungle/jungle_fence_side", "y": 270 }
+		}
+	]
 }
