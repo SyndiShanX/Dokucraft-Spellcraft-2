@@ -1,8 +1,8 @@
 {
 	"credit": "Made By WantedRobot",
 	"textures": {
-		"0": "block/spruce_fence",
-		"particle": "block/spruce_fence"
+		"0": "block/fence/spruce_fence",
+		"particle": "block/fence/spruce_fence"
 	},
 	"elements": [
 		{

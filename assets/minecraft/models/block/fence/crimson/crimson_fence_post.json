@@ -1,8 +1,8 @@
 {
 	"credit": "Made by SyndiShanX",
 	"textures": {
-		"particle": "block/crimson_fence",
-		"fence": "block/crimson_fence"
+		"particle": "block/fence/crimson_fence",
+		"fence": "block/fence/crimson_fence"
 	},
 	"elements": [
 		{
